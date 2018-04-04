@@ -3577,7 +3577,7 @@
       <entryLinks/>
       <costs>
         <cost name="pts" costTypeId="5190-8e25-ff8e-fa19" value="225.0"/>
-        <cost name="★ HVA" costTypeId="92e4-aedb-f7f3-fbda" value="1.0"/>
+        <cost name="★ HVA" costTypeId="92e4-aedb-f7f3-fbda" value="2.0"/>
       </costs>
     </selectionEntry>
     <selectionEntry id="ba5b-bdb1-f8cc-c997" name="Persecutor Bomber" book="Warpath: Firefight Rulebook" page="101" hidden="false" collective="false" type="unit">
@@ -3849,7 +3849,7 @@
       <entryLinks/>
       <costs>
         <cost name="pts" costTypeId="5190-8e25-ff8e-fa19" value="225.0"/>
-        <cost name="★ HVA" costTypeId="92e4-aedb-f7f3-fbda" value="1.0"/>
+        <cost name="★ HVA" costTypeId="92e4-aedb-f7f3-fbda" value="2.0"/>
       </costs>
     </selectionEntry>
     <selectionEntry id="42b3-c4a1-8e51-7228" name="Enforcer Captain" book="Warpath: Firefight Rulebook" page="102" hidden="false" collective="false" type="unit">
@@ -5531,7 +5531,7 @@ In addition, if the drone is destroyed during a battle, the Enforcer player may 
         <characteristic name="Range" characteristicTypeId="8bb9-64fd-8460-7663" value="9&quot;"/>
         <characteristic name="Dice" characteristicTypeId="54fa-c32f-5bc5-ae7c" value="1"/>
         <characteristic name="AP" characteristicTypeId="b494-0fb7-bcca-f3b4" value="1"/>
-        <characteristic name="Special" characteristicTypeId="c5f2-8050-3ee7-5f1d" value="Blast (2D3), Saturation, Slow Reload, Volatile (3+)"/>
+        <characteristic name="Special" characteristicTypeId="c5f2-8050-3ee7-5f1d" value="Blast (2D3), Fire in the Hole!, Saturation, Slow Reload, Volatile (3+)"/>
       </characteristics>
     </profile>
     <profile id="6f59-3370-b644-7f01" name="Thermal Rifle" book="Warpath: Firefight Rulebook" page="95" hidden="false" profileTypeId="6f7a-f8d6-ab6a-df58" profileTypeName="Weapon">
