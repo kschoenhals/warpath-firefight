@@ -3161,7 +3161,7 @@
               <entryLinks/>
               <costs>
                 <cost name="pts" costTypeId="5190-8e25-ff8e-fa19" value="25.0"/>
-                <cost name="★ HVA" costTypeId="92e4-aedb-f7f3-fbda" value="0.0"/>
+                <cost name="★ HVA" costTypeId="92e4-aedb-f7f3-fbda" value="1.0"/>
               </costs>
             </selectionEntry>
           </selectionEntries>
