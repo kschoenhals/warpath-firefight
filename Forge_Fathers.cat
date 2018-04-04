@@ -1084,7 +1084,7 @@
                 <cost name="pts" costTypeId="5190-8e25-ff8e-fa19" value="0.0"/>
               </costs>
             </selectionEntry>
-            <selectionEntry id="eca5-26cf-547b-bc94" name="Stormrage Veteran Thoragrims" hidden="false" collective="false" type="upgrade">
+            <selectionEntry id="eca5-26cf-547b-bc94" name="Stormrage Veteran Thorgarims" hidden="false" collective="false" type="upgrade">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -2363,7 +2363,7 @@
                   <rules/>
                   <infoLinks/>
                   <modifiers>
-                    <modifier type="set" field="c5f2-8050-3ee7-5f1d" value="Anti-Tank, Slow Reload">
+                    <modifier type="set" field="c5f2-8050-3ee7-5f1d" value="Anti-Tank, Heavy Firepower, Slow Reload">
                       <repeats/>
                       <conditions/>
                       <conditionGroups/>
